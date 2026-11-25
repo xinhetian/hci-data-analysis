@@ -1,0 +1,24 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 170" font-family="Arial, sans-serif">
+  <defs>
+    <linearGradient id="gradient">
+      <stop offset="0%" stop-color="#5ba58a"/>
+      <stop offset="100%" stop-color="#7596c5"/>
+    </linearGradient>
+  </defs>
+  <g fill="#20252b">
+    <text x="330" y="22" text-anchor="middle" font-size="18" font-weight="bold">Abstraction and Interpretation</text>
+    <text x="15" y="53" font-size="14">Lower</text>
+    <text x="645" y="53" font-size="14" text-anchor="end">Higher</text>
+  </g>
+  <rect x="15" y="65" width="609" height="6" rx="3" fill="url(#gradient)"/>
+  <path d="M620 59 L645 68 L620 77Z" fill="#7596c5"/>
+  <rect x="10" y="95" width="200" height="56" rx="8" fill="#e5f0eb" stroke="#5ba58a"/>
+  <rect x="230" y="95" width="200" height="56" rx="8" fill="#e8f0f2" stroke="#679eaa"/>
+  <rect x="450" y="95" width="200" height="56" rx="8" fill="#eef2f8" stroke="#7596c5"/>
+  <g text-anchor="middle" fill="#20252b" font-size="17">
+    <text x="110" y="129">Categories</text>
+    <text x="330" y="129">Descriptive Themes</text>
+    <text x="550" y="129">Themes of Meaning</text>
+  </g>
+</svg>

@@ -1,24 +1,24 @@
 [
   {
-    "objectID": "qualitative/narrative-analysis.html",
-    "href": "qualitative/narrative-analysis.html",
-    "title": "Narrative Analysis",
+    "objectID": "qualitative/field-research.html",
+    "href": "qualitative/field-research.html",
+    "title": "Field Research",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Qualitative Research Methods",
-      "Narrative Analysis"
+      "Field Research"
     ]
   },
   {
-    "objectID": "qualitative/narrative-analysis.html#overview",
-    "href": "qualitative/narrative-analysis.html#overview",
-    "title": "Narrative Analysis",
+    "objectID": "qualitative/field-research.html#overview",
+    "href": "qualitative/field-research.html#overview",
+    "title": "Field Research",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Qualitative Research Methods",
-      "Narrative Analysis"
+      "Field Research"
     ]
   },
   {
@@ -48,18 +48,62 @@
     "href": "qualitative/content-analysis.html",
     "title": "Qualitative Content Analysis",
     "section": "",
-    "text": "Content coming soon.",
+    "text": "Braun and Clarke (2021) describe QCA as the analytical approach most similar to TA:\n\nAt the general level, there does seem to be little that separates TA and QCA.\n\nQCA overlaps particularly with Coding Reliability TA and Codebook TA, while differing more substantially from Reflexive TA.\n\n\n\nConceptual overlap between QCA and TA, based on Braun and Clarke (2021).",
     "crumbs": [
       "Qualitative Research Methods",
       "Qualitative Content Analysis"
     ]
   },
   {
-    "objectID": "qualitative/content-analysis.html#overview",
-    "href": "qualitative/content-analysis.html#overview",
+    "objectID": "qualitative/content-analysis.html#qualitative-content-analysis",
+    "href": "qualitative/content-analysis.html#qualitative-content-analysis",
     "title": "Qualitative Content Analysis",
     "section": "",
-    "text": "Content coming soon.",
+    "text": "Braun and Clarke (2021) describe QCA as the analytical approach most similar to TA:\n\nAt the general level, there does seem to be little that separates TA and QCA.\n\nQCA overlaps particularly with Coding Reliability TA and Codebook TA, while differing more substantially from Reflexive TA.\n\n\n\nConceptual overlap between QCA and TA, based on Braun and Clarke (2021).",
+    "crumbs": [
+      "Qualitative Research Methods",
+      "Qualitative Content Analysis"
+    ]
+  },
+  {
+    "objectID": "qualitative/content-analysis.html#approaches-to-qualitative-content-analysis",
+    "href": "qualitative/content-analysis.html#approaches-to-qualitative-content-analysis",
+    "title": "Qualitative Content Analysis",
+    "section": "Approaches to Qualitative Content Analysis",
+    "text": "Approaches to Qualitative Content Analysis\nHsieh and Shannon (2005) distinguish three approaches to QCA.\n\n\n\nThree approaches to QCA, based on Hsieh and Shannon (2005).\n\n\n\n\n\n\n\n\n\nApproach\nDescription\n\n\n\n\nConventional Content Analysis\nCodes are developed inductively from the data.\n\n\nDirected Content Analysis\nInitial codes are derived from existing theories or previous research.\n\n\nSummative Content Analysis\nSelected words or content are counted and compared, followed by contextual interpretation.",
+    "crumbs": [
+      "Qualitative Research Methods",
+      "Qualitative Content Analysis"
+    ]
+  },
+  {
+    "objectID": "qualitative/content-analysis.html#analytical-outputs",
+    "href": "qualitative/content-analysis.html#analytical-outputs",
+    "title": "Qualitative Content Analysis",
+    "section": "Analytical Outputs",
+    "text": "Analytical Outputs\nQCA can generate categories and themes at different levels of abstraction and interpretation (Graneheim and Lundman 2004; Graneheim et al. 2017).\n\n\n\nLevels of abstraction in QCA, based on Graneheim et al. (2017).\n\n\n\n\n\nOutput\nFocus\n\n\n\n\nCategories\nShared characteristics of the content\n\n\nDescriptive themes\nPatterns across the data\n\n\nThemes of meaning\nUnderlying meanings of the data",
+    "crumbs": [
+      "Qualitative Research Methods",
+      "Qualitative Content Analysis"
+    ]
+  },
+  {
+    "objectID": "qualitative/content-analysis.html#intercoder-reliability",
+    "href": "qualitative/content-analysis.html#intercoder-reliability",
+    "title": "Qualitative Content Analysis",
+    "section": "Intercoder Reliability",
+    "text": "Intercoder Reliability\nIntercoder reliability can be assessed in QCA when multiple coders independently apply a shared coding scheme (Burla et al. 2008).\nIntercoder reliability is not required in all approaches to QCA.",
+    "crumbs": [
+      "Qualitative Research Methods",
+      "Qualitative Content Analysis"
+    ]
+  },
+  {
+    "objectID": "qualitative/content-analysis.html#references",
+    "href": "qualitative/content-analysis.html#references",
+    "title": "Qualitative Content Analysis",
+    "section": "References",
+    "text": "References\n\n\nBraun, Virginia, and Victoria Clarke. 2021. “Can i Use TA? Should i Use TA? Should i Not Use TA? Comparing Reflexive Thematic Analysis and Other Pattern-Based Qualitative Analytic Approaches.” Counselling and Psychotherapy Research 21 (1): 37–47. https://doi.org/10.1002/capr.12360.\n\n\nBurla, Laila, Brigitte Knierim, Jürgen Barth, Katharina Liewald, Margreet Duetz, and Thomas Abel. 2008. “From Text to Codings: Intercoder Reliability Assessment in Qualitative Content Analysis.” Nursing Research 57 (2): 113–17. https://doi.org/10.1097/01.NNR.0000313482.33917.7d.\n\n\nGraneheim, Ulla H., Britt-Marie Lindgren, and Berit Lundman. 2017. “Methodological Challenges in Qualitative Content Analysis: A Discussion Paper.” Nurse Education Today 56: 29–34. https://doi.org/10.1016/j.nedt.2017.06.002.\n\n\nGraneheim, Ulla H., and Berit Lundman. 2004. “Qualitative Content Analysis in Nursing Research: Concepts, Procedures and Measures to Achieve Trustworthiness.” Nurse Education Today 24 (2): 105–12. https://doi.org/10.1016/j.nedt.2003.10.001.\n\n\nHsieh, Hsiu-Fang, and Sarah E. Shannon. 2005. “Three Approaches to Qualitative Content Analysis.” Qualitative Health Research 15 (9): 1277–88. https://doi.org/10.1177/1049732305276687.",
     "crumbs": [
       "Qualitative Research Methods",
       "Qualitative Content Analysis"
@@ -88,223 +132,211 @@
     ]
   },
   {
-    "objectID": "qualitative/autoethnography.html",
-    "href": "qualitative/autoethnography.html",
-    "title": "Autoethnography",
+    "objectID": "qualitative/ethnography.html",
+    "href": "qualitative/ethnography.html",
+    "title": "Ethnography",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Qualitative Research Methods",
-      "Autoethnography"
+      "Ethnography"
     ]
   },
   {
-    "objectID": "qualitative/autoethnography.html#overview",
-    "href": "qualitative/autoethnography.html#overview",
-    "title": "Autoethnography",
+    "objectID": "qualitative/ethnography.html#overview",
+    "href": "qualitative/ethnography.html#overview",
+    "title": "Ethnography",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Qualitative Research Methods",
-      "Autoethnography"
+      "Ethnography"
     ]
   },
   {
-    "objectID": "qualitative/observation.html",
-    "href": "qualitative/observation.html",
-    "title": "Qualitative Observation",
+    "objectID": "qualitative/focus-group.html",
+    "href": "qualitative/focus-group.html",
+    "title": "Focus Group",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Qualitative Research Methods",
-      "Qualitative Observation"
+      "Focus Group"
     ]
   },
   {
-    "objectID": "qualitative/observation.html#overview",
-    "href": "qualitative/observation.html#overview",
-    "title": "Qualitative Observation",
+    "objectID": "qualitative/focus-group.html#overview",
+    "href": "qualitative/focus-group.html#overview",
+    "title": "Focus Group",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Qualitative Research Methods",
-      "Qualitative Observation"
+      "Focus Group"
     ]
   },
   {
-    "objectID": "qualitative/interview.html",
-    "href": "qualitative/interview.html",
-    "title": "Interview",
-    "section": "",
-    "text": "Content coming soon.",
-    "crumbs": [
-      "Qualitative Research Methods",
-      "Interview"
-    ]
-  },
-  {
-    "objectID": "qualitative/interview.html#overview",
-    "href": "qualitative/interview.html#overview",
-    "title": "Interview",
-    "section": "",
-    "text": "Content coming soon.",
-    "crumbs": [
-      "Qualitative Research Methods",
-      "Interview"
-    ]
-  },
-  {
-    "objectID": "computational/topic-modeling.html",
-    "href": "computational/topic-modeling.html",
-    "title": "Topic Modeling",
+    "objectID": "computational/social-network-analysis.html",
+    "href": "computational/social-network-analysis.html",
+    "title": "Social Network Analysis (SNA)",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Computational Research Methods",
-      "Topic Modeling"
+      "Social Network Analysis (SNA)"
     ]
   },
   {
-    "objectID": "computational/topic-modeling.html#overview",
-    "href": "computational/topic-modeling.html#overview",
-    "title": "Topic Modeling",
+    "objectID": "computational/social-network-analysis.html#overview",
+    "href": "computational/social-network-analysis.html#overview",
+    "title": "Social Network Analysis (SNA)",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Computational Research Methods",
-      "Topic Modeling"
+      "Social Network Analysis (SNA)"
     ]
   },
   {
-    "objectID": "computational/nlp.html",
-    "href": "computational/nlp.html",
-    "title": "Natural Language Processing (NLP)",
+    "objectID": "computational/sentiment-analysis.html",
+    "href": "computational/sentiment-analysis.html",
+    "title": "Sentiment Analysis",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Computational Research Methods",
-      "Natural Language Processing (NLP)"
+      "Sentiment Analysis"
     ]
   },
   {
-    "objectID": "computational/nlp.html#overview",
-    "href": "computational/nlp.html#overview",
-    "title": "Natural Language Processing (NLP)",
+    "objectID": "computational/sentiment-analysis.html#overview",
+    "href": "computational/sentiment-analysis.html#overview",
+    "title": "Sentiment Analysis",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Computational Research Methods",
-      "Natural Language Processing (NLP)"
+      "Sentiment Analysis"
     ]
   },
   {
-    "objectID": "quantitative/secondary-data-analysis.html",
-    "href": "quantitative/secondary-data-analysis.html",
-    "title": "Secondary Data Analysis",
+    "objectID": "computational/text-analysis.html",
+    "href": "computational/text-analysis.html",
+    "title": "Computational Text Analysis",
+    "section": "",
+    "text": "Content coming soon.",
+    "crumbs": [
+      "Computational Research Methods",
+      "Computational Text Analysis"
+    ]
+  },
+  {
+    "objectID": "computational/text-analysis.html#overview",
+    "href": "computational/text-analysis.html#overview",
+    "title": "Computational Text Analysis",
+    "section": "",
+    "text": "Content coming soon.",
+    "crumbs": [
+      "Computational Research Methods",
+      "Computational Text Analysis"
+    ]
+  },
+  {
+    "objectID": "quantitative/physiological-measurement.html",
+    "href": "quantitative/physiological-measurement.html",
+    "title": "Physiological Measurement",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Quantitative Research Methods",
-      "Secondary Data Analysis"
+      "Physiological Measurement"
     ]
   },
   {
-    "objectID": "quantitative/secondary-data-analysis.html#overview",
-    "href": "quantitative/secondary-data-analysis.html#overview",
-    "title": "Secondary Data Analysis",
+    "objectID": "quantitative/physiological-measurement.html#overview",
+    "href": "quantitative/physiological-measurement.html#overview",
+    "title": "Physiological Measurement",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Quantitative Research Methods",
-      "Secondary Data Analysis"
+      "Physiological Measurement"
     ]
   },
   {
-    "objectID": "quantitative/experience-sampling.html",
-    "href": "quantitative/experience-sampling.html",
-    "title": "Experience Sampling Method (ESM)",
+    "objectID": "quantitative/diary-study.html",
+    "href": "quantitative/diary-study.html",
+    "title": "Diary Study",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Quantitative Research Methods",
-      "Experience Sampling Method (ESM)"
+      "Diary Study"
     ]
   },
   {
-    "objectID": "quantitative/experience-sampling.html#overview",
-    "href": "quantitative/experience-sampling.html#overview",
-    "title": "Experience Sampling Method (ESM)",
+    "objectID": "quantitative/diary-study.html#overview",
+    "href": "quantitative/diary-study.html#overview",
+    "title": "Diary Study",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Quantitative Research Methods",
-      "Experience Sampling Method (ESM)"
+      "Diary Study"
     ]
   },
   {
-    "objectID": "quantitative/behavioral-logs.html",
-    "href": "quantitative/behavioral-logs.html",
-    "title": "Behavioral Log Analysis",
+    "objectID": "quantitative/observation.html",
+    "href": "quantitative/observation.html",
+    "title": "Quantitative Observation",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Quantitative Research Methods",
-      "Behavioral Log Analysis"
+      "Quantitative Observation"
     ]
   },
   {
-    "objectID": "quantitative/behavioral-logs.html#overview",
-    "href": "quantitative/behavioral-logs.html#overview",
-    "title": "Behavioral Log Analysis",
+    "objectID": "quantitative/observation.html#overview",
+    "href": "quantitative/observation.html#overview",
+    "title": "Quantitative Observation",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Quantitative Research Methods",
-      "Behavioral Log Analysis"
+      "Quantitative Observation"
     ]
   },
   {
-    "objectID": "quantitative/content-analysis.html",
-    "href": "quantitative/content-analysis.html",
-    "title": "Quantitative Content Analysis",
+    "objectID": "quantitative/survey.html",
+    "href": "quantitative/survey.html",
+    "title": "Survey Research",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Quantitative Research Methods",
-      "Quantitative Content Analysis"
+      "Survey Research"
     ]
   },
   {
-    "objectID": "quantitative/content-analysis.html#overview",
-    "href": "quantitative/content-analysis.html#overview",
-    "title": "Quantitative Content Analysis",
+    "objectID": "quantitative/survey.html#overview",
+    "href": "quantitative/survey.html#overview",
+    "title": "Survey Research",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Quantitative Research Methods",
-      "Quantitative Content Analysis"
+      "Survey Research"
     ]
   },
   {
-    "objectID": "quantitative/experiment.html",
-    "href": "quantitative/experiment.html",
-    "title": "Experimental Research",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Content coming soon.",
+    "text": "About this site",
     "crumbs": [
-      "Quantitative Research Methods",
-      "Experimental Research"
-    ]
-  },
-  {
-    "objectID": "quantitative/experiment.html#overview",
-    "href": "quantitative/experiment.html#overview",
-    "title": "Experimental Research",
-    "section": "",
-    "text": "Content coming soon.",
-    "crumbs": [
-      "Quantitative Research Methods",
-      "Experimental Research"
+      "About"
     ]
   },
   {
@@ -312,7 +344,7 @@
     "href": "index.html",
     "title": "HCI Data Analysis",
     "section": "",
-    "text": "Welcome to an evolving collection of research methods, statistical concepts, practical examples, and analysis code for HCI researchers.",
+    "text": "Research methods serve different purposes in the research process. Some guide the overall design of a study, some are used to collect data, and others are used to analyze data.",
     "crumbs": [
       "Home"
     ]
@@ -348,233 +380,223 @@
     ]
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site",
-    "crumbs": [
-      "About"
-    ]
-  },
-  {
-    "objectID": "quantitative/survey.html",
-    "href": "quantitative/survey.html",
-    "title": "Survey Research",
+    "objectID": "quantitative/experiment.html",
+    "href": "quantitative/experiment.html",
+    "title": "Experimental Research",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Quantitative Research Methods",
-      "Survey Research"
+      "Experimental Research"
     ]
   },
   {
-    "objectID": "quantitative/survey.html#overview",
-    "href": "quantitative/survey.html#overview",
-    "title": "Survey Research",
+    "objectID": "quantitative/experiment.html#overview",
+    "href": "quantitative/experiment.html#overview",
+    "title": "Experimental Research",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Quantitative Research Methods",
-      "Survey Research"
+      "Experimental Research"
     ]
   },
   {
-    "objectID": "quantitative/observation.html",
-    "href": "quantitative/observation.html",
-    "title": "Quantitative Observation",
+    "objectID": "quantitative/content-analysis.html",
+    "href": "quantitative/content-analysis.html",
+    "title": "Quantitative Content Analysis",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Quantitative Research Methods",
-      "Quantitative Observation"
+      "Quantitative Content Analysis"
     ]
   },
   {
-    "objectID": "quantitative/observation.html#overview",
-    "href": "quantitative/observation.html#overview",
-    "title": "Quantitative Observation",
+    "objectID": "quantitative/content-analysis.html#overview",
+    "href": "quantitative/content-analysis.html#overview",
+    "title": "Quantitative Content Analysis",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Quantitative Research Methods",
-      "Quantitative Observation"
+      "Quantitative Content Analysis"
     ]
   },
   {
-    "objectID": "quantitative/diary-study.html",
-    "href": "quantitative/diary-study.html",
-    "title": "Diary Study",
+    "objectID": "quantitative/behavioral-logs.html",
+    "href": "quantitative/behavioral-logs.html",
+    "title": "Behavioral Log Analysis",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Quantitative Research Methods",
-      "Diary Study"
+      "Behavioral Log Analysis"
     ]
   },
   {
-    "objectID": "quantitative/diary-study.html#overview",
-    "href": "quantitative/diary-study.html#overview",
-    "title": "Diary Study",
+    "objectID": "quantitative/behavioral-logs.html#overview",
+    "href": "quantitative/behavioral-logs.html#overview",
+    "title": "Behavioral Log Analysis",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Quantitative Research Methods",
-      "Diary Study"
+      "Behavioral Log Analysis"
     ]
   },
   {
-    "objectID": "quantitative/physiological-measurement.html",
-    "href": "quantitative/physiological-measurement.html",
-    "title": "Physiological Measurement",
+    "objectID": "quantitative/experience-sampling.html",
+    "href": "quantitative/experience-sampling.html",
+    "title": "Experience Sampling Method (ESM)",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Quantitative Research Methods",
-      "Physiological Measurement"
+      "Experience Sampling Method (ESM)"
     ]
   },
   {
-    "objectID": "quantitative/physiological-measurement.html#overview",
-    "href": "quantitative/physiological-measurement.html#overview",
-    "title": "Physiological Measurement",
+    "objectID": "quantitative/experience-sampling.html#overview",
+    "href": "quantitative/experience-sampling.html#overview",
+    "title": "Experience Sampling Method (ESM)",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Quantitative Research Methods",
-      "Physiological Measurement"
+      "Experience Sampling Method (ESM)"
     ]
   },
   {
-    "objectID": "computational/text-analysis.html",
-    "href": "computational/text-analysis.html",
-    "title": "Computational Text Analysis",
+    "objectID": "quantitative/secondary-data-analysis.html",
+    "href": "quantitative/secondary-data-analysis.html",
+    "title": "Secondary Data Analysis",
+    "section": "",
+    "text": "Content coming soon.",
+    "crumbs": [
+      "Quantitative Research Methods",
+      "Secondary Data Analysis"
+    ]
+  },
+  {
+    "objectID": "quantitative/secondary-data-analysis.html#overview",
+    "href": "quantitative/secondary-data-analysis.html#overview",
+    "title": "Secondary Data Analysis",
+    "section": "",
+    "text": "Content coming soon.",
+    "crumbs": [
+      "Quantitative Research Methods",
+      "Secondary Data Analysis"
+    ]
+  },
+  {
+    "objectID": "computational/nlp.html",
+    "href": "computational/nlp.html",
+    "title": "Natural Language Processing (NLP)",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Computational Research Methods",
-      "Computational Text Analysis"
+      "Natural Language Processing (NLP)"
     ]
   },
   {
-    "objectID": "computational/text-analysis.html#overview",
-    "href": "computational/text-analysis.html#overview",
-    "title": "Computational Text Analysis",
+    "objectID": "computational/nlp.html#overview",
+    "href": "computational/nlp.html#overview",
+    "title": "Natural Language Processing (NLP)",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Computational Research Methods",
-      "Computational Text Analysis"
+      "Natural Language Processing (NLP)"
     ]
   },
   {
-    "objectID": "computational/sentiment-analysis.html",
-    "href": "computational/sentiment-analysis.html",
-    "title": "Sentiment Analysis",
+    "objectID": "computational/topic-modeling.html",
+    "href": "computational/topic-modeling.html",
+    "title": "Topic Modeling",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Computational Research Methods",
-      "Sentiment Analysis"
+      "Topic Modeling"
     ]
   },
   {
-    "objectID": "computational/sentiment-analysis.html#overview",
-    "href": "computational/sentiment-analysis.html#overview",
-    "title": "Sentiment Analysis",
+    "objectID": "computational/topic-modeling.html#overview",
+    "href": "computational/topic-modeling.html#overview",
+    "title": "Topic Modeling",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Computational Research Methods",
-      "Sentiment Analysis"
+      "Topic Modeling"
     ]
   },
   {
-    "objectID": "computational/social-network-analysis.html",
-    "href": "computational/social-network-analysis.html",
-    "title": "Social Network Analysis (SNA)",
-    "section": "",
-    "text": "Content coming soon.",
-    "crumbs": [
-      "Computational Research Methods",
-      "Social Network Analysis (SNA)"
-    ]
-  },
-  {
-    "objectID": "computational/social-network-analysis.html#overview",
-    "href": "computational/social-network-analysis.html#overview",
-    "title": "Social Network Analysis (SNA)",
-    "section": "",
-    "text": "Content coming soon.",
-    "crumbs": [
-      "Computational Research Methods",
-      "Social Network Analysis (SNA)"
-    ]
-  },
-  {
-    "objectID": "qualitative/focus-group.html",
-    "href": "qualitative/focus-group.html",
-    "title": "Focus Group",
+    "objectID": "qualitative/interview.html",
+    "href": "qualitative/interview.html",
+    "title": "Interview",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Qualitative Research Methods",
-      "Focus Group"
+      "Interview"
     ]
   },
   {
-    "objectID": "qualitative/focus-group.html#overview",
-    "href": "qualitative/focus-group.html#overview",
-    "title": "Focus Group",
+    "objectID": "qualitative/interview.html#overview",
+    "href": "qualitative/interview.html#overview",
+    "title": "Interview",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Qualitative Research Methods",
-      "Focus Group"
+      "Interview"
     ]
   },
   {
-    "objectID": "qualitative/ethnography.html",
-    "href": "qualitative/ethnography.html",
-    "title": "Ethnography",
+    "objectID": "qualitative/observation.html",
+    "href": "qualitative/observation.html",
+    "title": "Qualitative Observation",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Qualitative Research Methods",
-      "Ethnography"
+      "Qualitative Observation"
     ]
   },
   {
-    "objectID": "qualitative/ethnography.html#overview",
-    "href": "qualitative/ethnography.html#overview",
-    "title": "Ethnography",
+    "objectID": "qualitative/observation.html#overview",
+    "href": "qualitative/observation.html#overview",
+    "title": "Qualitative Observation",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Qualitative Research Methods",
-      "Ethnography"
+      "Qualitative Observation"
     ]
   },
   {
-    "objectID": "qualitative/contextual-inquiry.html",
-    "href": "qualitative/contextual-inquiry.html",
-    "title": "Contextual Inquiry",
+    "objectID": "qualitative/autoethnography.html",
+    "href": "qualitative/autoethnography.html",
+    "title": "Autoethnography",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Qualitative Research Methods",
-      "Contextual Inquiry"
+      "Autoethnography"
     ]
   },
   {
-    "objectID": "qualitative/contextual-inquiry.html#overview",
-    "href": "qualitative/contextual-inquiry.html#overview",
-    "title": "Contextual Inquiry",
+    "objectID": "qualitative/autoethnography.html#overview",
+    "href": "qualitative/autoethnography.html#overview",
+    "title": "Autoethnography",
     "section": "",
     "text": "Content coming soon.",
     "crumbs": [
       "Qualitative Research Methods",
-      "Contextual Inquiry"
+      "Autoethnography"
     ]
   },
   {

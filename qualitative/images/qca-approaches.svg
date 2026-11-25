@@ -1,0 +1,21 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 175" font-family="Arial, sans-serif">
+  <rect x="170" y="5" width="320" height="45" rx="8" fill="#eef2f8" stroke="#7596c5"/>
+  <path d="M330 50 V73 M110 73 H550 M110 73 V96 M330 73 V96 M550 73 V96" fill="none" stroke="#888" stroke-width="1.5"/>
+  <g fill="#e5f0eb" stroke="#5ba58a">
+    <rect x="10" y="96" width="200" height="65" rx="8"/>
+    <rect x="230" y="96" width="200" height="65" rx="8"/>
+    <rect x="450" y="96" width="200" height="65" rx="8"/>
+  </g>
+  <g text-anchor="middle" fill="#20252b" font-size="18">
+    <text x="330" y="33" font-weight="bold">Qualitative Content Analysis</text>
+    <text x="110" y="123">Conventional</text>
+    <text x="330" y="123">Directed</text>
+    <text x="550" y="123">Summative</text>
+    <g font-size="16">
+      <text x="110" y="145">Content Analysis</text>
+      <text x="330" y="145">Content Analysis</text>
+      <text x="550" y="145">Content Analysis</text>
+    </g>
+  </g>
+</svg>

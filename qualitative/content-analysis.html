@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>content-analysis – HCI Research Methods &amp; Data Analysis</title>
+<title>content-analysis – HCI Research Methods</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -26,7 +26,26 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="../site_libs/quarto-nav/quarto-nav.js"></script>
@@ -87,7 +106,7 @@ ul.task-list li input[type="checkbox"] {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../index.html">
-    <span class="navbar-title">HCI Research Methods &amp; Data Analysis</span>
+    <span class="navbar-title">HCI Research Methods</span>
     </a>
   </div>
         <div class="quarto-navbar-tools tools-end">
@@ -152,14 +171,20 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../quantitative/observation.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Quantitative Observation</span></a>
+  <a href="../quantitative/physiological-measurement.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Physiological Measurement</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../quantitative/behavioral-logs.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Behavioral Log Analysis</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../quantitative/observation.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Quantitative Observation</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -172,12 +197,6 @@ ul.task-list li input[type="checkbox"] {
   <div class="sidebar-item-container"> 
   <a href="../quantitative/experience-sampling.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Experience Sampling Method (ESM)</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../quantitative/physiological-measurement.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Physiological Measurement</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -208,8 +227,8 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../qualitative/observation.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Qualitative Observation</span></a>
+  <a href="../qualitative/field-research.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Field Research</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -220,20 +239,20 @@ ul.task-list li input[type="checkbox"] {
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
+  <a href="../qualitative/case-study.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Case Study</span></a>
+  </div>
+</li>
+          <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
   <a href="../qualitative/autoethnography.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Autoethnography</span></a>
   </div>
 </li>
           <li class="sidebar-item">
   <div class="sidebar-item-container"> 
-  <a href="../qualitative/contextual-inquiry.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Contextual Inquiry</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../qualitative/case-study.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Case Study</span></a>
+  <a href="../qualitative/observation.html" class="sidebar-item-text sidebar-link">
+ <span class="menu-text">Qualitative Observation</span></a>
   </div>
 </li>
           <li class="sidebar-item">
@@ -264,12 +283,6 @@ ul.task-list li input[type="checkbox"] {
   <div class="sidebar-item-container"> 
   <a href="../qualitative/discourse-analysis.html" class="sidebar-item-text sidebar-link">
  <span class="menu-text">Discourse Analysis</span></a>
-  </div>
-</li>
-          <li class="sidebar-item">
-  <div class="sidebar-item-container"> 
-  <a href="../qualitative/narrative-analysis.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text">Narrative Analysis</span></a>
   </div>
 </li>
       </ul>
@@ -328,7 +341,11 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#overview" id="toc-overview" class="nav-link active" data-scroll-target="#overview">Overview</a></li>
+  <li><a href="#qualitative-content-analysis" id="toc-qualitative-content-analysis" class="nav-link active" data-scroll-target="#qualitative-content-analysis">Qualitative Content Analysis</a></li>
+  <li><a href="#approaches-to-qualitative-content-analysis" id="toc-approaches-to-qualitative-content-analysis" class="nav-link" data-scroll-target="#approaches-to-qualitative-content-analysis">Approaches to Qualitative Content Analysis</a></li>
+  <li><a href="#analytical-outputs" id="toc-analytical-outputs" class="nav-link" data-scroll-target="#analytical-outputs">Analytical Outputs</a></li>
+  <li><a href="#intercoder-reliability" id="toc-intercoder-reliability" class="nav-link" data-scroll-target="#intercoder-reliability">Intercoder Reliability</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
   </ul>
 </nav>
     </div>
@@ -354,9 +371,112 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="overview" class="level2">
-<h2 class="anchored" data-anchor-id="overview">Overview</h2>
-<p>Content coming soon.</p>
+<section id="qualitative-content-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="qualitative-content-analysis">Qualitative Content Analysis</h2>
+<p><span class="citation" data-cites="braun2021">Braun and Clarke (<a href="#ref-braun2021" role="doc-biblioref">2021</a>)</span> describe QCA as the analytical approach most similar to TA:</p>
+<blockquote class="blockquote">
+<p>At the general level, there does seem to be little that separates TA and QCA.</p>
+</blockquote>
+<p>QCA overlaps particularly with Coding Reliability TA and Codebook TA, while differing more substantially from Reflexive TA.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/qca-ta-overlap.svg" class="img-fluid figure-img" style="width:60.0%"></p>
+<figcaption>Conceptual overlap between QCA and TA, based on <span class="citation" data-cites="braun2021">Braun and Clarke (<a href="#ref-braun2021" role="doc-biblioref">2021</a>)</span>.</figcaption>
+</figure>
+</div>
+</section>
+<section id="approaches-to-qualitative-content-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="approaches-to-qualitative-content-analysis">Approaches to Qualitative Content Analysis</h2>
+<p><span class="citation" data-cites="hsieh2005">Hsieh and Shannon (<a href="#ref-hsieh2005" role="doc-biblioref">2005</a>)</span> distinguish three approaches to QCA.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/qca-approaches.svg" class="img-fluid figure-img" style="width:85.0%"></p>
+<figcaption>Three approaches to QCA, based on <span class="citation" data-cites="hsieh2005">Hsieh and Shannon (<a href="#ref-hsieh2005" role="doc-biblioref">2005</a>)</span>.</figcaption>
+</figure>
+</div>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 50%">
+<col style="width: 50%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Approach</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Conventional Content Analysis</td>
+<td>Codes are developed inductively from the data.</td>
+</tr>
+<tr class="even">
+<td>Directed Content Analysis</td>
+<td>Initial codes are derived from existing theories or previous research.</td>
+</tr>
+<tr class="odd">
+<td>Summative Content Analysis</td>
+<td>Selected words or content are counted and compared, followed by contextual interpretation.</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="analytical-outputs" class="level2">
+<h2 class="anchored" data-anchor-id="analytical-outputs">Analytical Outputs</h2>
+<p>QCA can generate categories and themes at different levels of abstraction and interpretation <span class="citation" data-cites="graneheim2004 graneheim2017">(<a href="#ref-graneheim2004" role="doc-biblioref">Graneheim and Lundman 2004</a>; <a href="#ref-graneheim2017" role="doc-biblioref">Graneheim et al. 2017</a>)</span>.</p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="images/qca-abstraction.svg" class="img-fluid figure-img" style="width:85.0%"></p>
+<figcaption>Levels of abstraction in QCA, based on <span class="citation" data-cites="graneheim2017">Graneheim et al. (<a href="#ref-graneheim2017" role="doc-biblioref">2017</a>)</span>.</figcaption>
+</figure>
+</div>
+<table class="caption-top table">
+<thead>
+<tr class="header">
+<th>Output</th>
+<th>Focus</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Categories</td>
+<td>Shared characteristics of the content</td>
+</tr>
+<tr class="even">
+<td>Descriptive themes</td>
+<td>Patterns across the data</td>
+</tr>
+<tr class="odd">
+<td>Themes of meaning</td>
+<td>Underlying meanings of the data</td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="intercoder-reliability" class="level2">
+<h2 class="anchored" data-anchor-id="intercoder-reliability">Intercoder Reliability</h2>
+<p>Intercoder reliability can be assessed in QCA when multiple coders independently apply a shared coding scheme <span class="citation" data-cites="burla2008">(<a href="#ref-burla2008" role="doc-biblioref">Burla et al. 2008</a>)</span>.</p>
+<p>Intercoder reliability is not required in all approaches to QCA.</p>
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<div id="refs" class="references csl-bib-body hanging-indent" role="list">
+<div id="ref-braun2021" class="csl-entry" role="listitem">
+Braun, Virginia, and Victoria Clarke. 2021. <span>“Can i Use TA? Should i Use TA? Should i Not Use TA? Comparing Reflexive Thematic Analysis and Other Pattern-Based Qualitative Analytic Approaches.”</span> <em>Counselling and Psychotherapy Research</em> 21 (1): 37–47. <a href="https://doi.org/10.1002/capr.12360">https://doi.org/10.1002/capr.12360</a>.
+</div>
+<div id="ref-burla2008" class="csl-entry" role="listitem">
+Burla, Laila, Brigitte Knierim, Jürgen Barth, Katharina Liewald, Margreet Duetz, and Thomas Abel. 2008. <span>“From Text to Codings: Intercoder Reliability Assessment in Qualitative Content Analysis.”</span> <em>Nursing Research</em> 57 (2): 113–17. <a href="https://doi.org/10.1097/01.NNR.0000313482.33917.7d">https://doi.org/10.1097/01.NNR.0000313482.33917.7d</a>.
+</div>
+<div id="ref-graneheim2017" class="csl-entry" role="listitem">
+Graneheim, Ulla H., Britt-Marie Lindgren, and Berit Lundman. 2017. <span>“Methodological Challenges in Qualitative Content Analysis: A Discussion Paper.”</span> <em>Nurse Education Today</em> 56: 29–34. <a href="https://doi.org/10.1016/j.nedt.2017.06.002">https://doi.org/10.1016/j.nedt.2017.06.002</a>.
+</div>
+<div id="ref-graneheim2004" class="csl-entry" role="listitem">
+Graneheim, Ulla H., and Berit Lundman. 2004. <span>“Qualitative Content Analysis in Nursing Research: Concepts, Procedures and Measures to Achieve Trustworthiness.”</span> <em>Nurse Education Today</em> 24 (2): 105–12. <a href="https://doi.org/10.1016/j.nedt.2003.10.001">https://doi.org/10.1016/j.nedt.2003.10.001</a>.
+</div>
+<div id="ref-hsieh2005" class="csl-entry" role="listitem">
+Hsieh, Hsiu-Fang, and Sarah E. Shannon. 2005. <span>“Three Approaches to Qualitative Content Analysis.”</span> <em>Qualitative Health Research</em> 15 (9): 1277–88. <a href="https://doi.org/10.1177/1049732305276687">https://doi.org/10.1177/1049732305276687</a>.
+</div>
+</div>
 
 
 </section>

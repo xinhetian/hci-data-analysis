@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/qualitative/narrative-analysis.html</loc>
-    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
+    <loc>https://xinhetian.github.io/hci-data-analysis/qualitative/field-research.html</loc>
+    <lastmod>2026-11-25T05:20:48.000Z</lastmod>
   </url>
   <url>
     <loc>https://xinhetian.github.io/hci-data-analysis/qualitative/grounded-theory.html</loc>
@@ -10,90 +10,10 @@
   </url>
   <url>
     <loc>https://xinhetian.github.io/hci-data-analysis/qualitative/content-analysis.html</loc>
-    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
+    <lastmod>2026-11-25T05:11:10.000Z</lastmod>
   </url>
   <url>
     <loc>https://xinhetian.github.io/hci-data-analysis/qualitative/case-study.html</loc>
-    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/qualitative/autoethnography.html</loc>
-    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/qualitative/observation.html</loc>
-    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/qualitative/interview.html</loc>
-    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/computational/topic-modeling.html</loc>
-    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/computational/nlp.html</loc>
-    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/quantitative/secondary-data-analysis.html</loc>
-    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/quantitative/experience-sampling.html</loc>
-    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/quantitative/behavioral-logs.html</loc>
-    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/quantitative/content-analysis.html</loc>
-    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/quantitative/experiment.html</loc>
-    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/index.html</loc>
-    <lastmod>2026-11-25T03:41:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/about.html</loc>
-    <lastmod>2026-11-24T23:59:36.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/quantitative/survey.html</loc>
-    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/quantitative/observation.html</loc>
-    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/quantitative/diary-study.html</loc>
-    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/quantitative/physiological-measurement.html</loc>
-    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/computational/text-analysis.html</loc>
-    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/computational/sentiment-analysis.html</loc>
-    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/computational/social-network-analysis.html</loc>
-    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
-  </url>
-  <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/qualitative/focus-group.html</loc>
     <lastmod>2026-11-25T03:39:28.000Z</lastmod>
   </url>
   <url>
@@ -101,7 +21,83 @@
     <lastmod>2026-11-25T03:39:28.000Z</lastmod>
   </url>
   <url>
-    <loc>https://xinhetian.github.io/hci-data-analysis/qualitative/contextual-inquiry.html</loc>
+    <loc>https://xinhetian.github.io/hci-data-analysis/qualitative/focus-group.html</loc>
+    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xinhetian.github.io/hci-data-analysis/computational/social-network-analysis.html</loc>
+    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xinhetian.github.io/hci-data-analysis/computational/sentiment-analysis.html</loc>
+    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xinhetian.github.io/hci-data-analysis/computational/text-analysis.html</loc>
+    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xinhetian.github.io/hci-data-analysis/quantitative/physiological-measurement.html</loc>
+    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xinhetian.github.io/hci-data-analysis/quantitative/diary-study.html</loc>
+    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xinhetian.github.io/hci-data-analysis/quantitative/observation.html</loc>
+    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xinhetian.github.io/hci-data-analysis/quantitative/survey.html</loc>
+    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xinhetian.github.io/hci-data-analysis/about.html</loc>
+    <lastmod>2026-11-24T23:59:36.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xinhetian.github.io/hci-data-analysis/index.html</loc>
+    <lastmod>2026-11-25T05:28:54.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xinhetian.github.io/hci-data-analysis/quantitative/experiment.html</loc>
+    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xinhetian.github.io/hci-data-analysis/quantitative/content-analysis.html</loc>
+    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xinhetian.github.io/hci-data-analysis/quantitative/behavioral-logs.html</loc>
+    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xinhetian.github.io/hci-data-analysis/quantitative/experience-sampling.html</loc>
+    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xinhetian.github.io/hci-data-analysis/quantitative/secondary-data-analysis.html</loc>
+    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xinhetian.github.io/hci-data-analysis/computational/nlp.html</loc>
+    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xinhetian.github.io/hci-data-analysis/computational/topic-modeling.html</loc>
+    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xinhetian.github.io/hci-data-analysis/qualitative/interview.html</loc>
+    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xinhetian.github.io/hci-data-analysis/qualitative/observation.html</loc>
+    <lastmod>2026-11-25T03:39:28.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://xinhetian.github.io/hci-data-analysis/qualitative/autoethnography.html</loc>
     <lastmod>2026-11-25T03:39:28.000Z</lastmod>
   </url>
   <url>
