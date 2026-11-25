@@ -1,1 +1,149 @@
 /* css styles */
+
+/* Global typography */
+
+body {
+  font-family: system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", sans-serif;
+  font-size: 16px;
+  line-height: 1.75;
+  color: #334155;
+  background-color: #ffffff;
+}
+
+/* Top navigation bar */
+
+.navbar {
+  background-color: #21384f !important;
+  padding-top: 14px;
+  padding-bottom: 14px;
+}
+
+.navbar-title {
+  font-size: 20px;
+  font-weight: 600;
+  color: #ffffff !important;
+}
+
+.navbar .nav-link {
+  color: #ffffff !important;
+}
+
+/* Sidebar */
+
+#quarto-sidebar {
+  background-color: #ffffff;
+  border-right: 1px solid #e2e8f0;
+}
+
+.sidebar-item-text {
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.sidebar-item-section > .sidebar-item-container {
+  font-weight: 600;
+}
+
+.sidebar-item-container {
+  margin-bottom: 5px;
+}
+
+.sidebar-link.active {
+  color: #2563eb !important;
+  font-weight: 600;
+}
+
+/* Headings */
+
+h1 {
+  color: #21384f;
+  font-size: 2.6rem;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  color: #21384f;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
+
+h3 {
+  color: #334155;
+  font-weight: 600;
+}
+
+.subtitle {
+  color: #64748b;
+  font-size: 1.15rem;
+}
+
+/* Links */
+
+a {
+  color: #2563eb;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Homepage research cards */
+
+.research-card {
+  border: 1px solid #dce3ec;
+  border-radius: 12px;
+  padding: 22px 26px;
+  margin: 20px 0;
+  background-color: #ffffff;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+.research-card:hover {
+  border-color: #93b4e5;
+  box-shadow: 0 3px 12px rgba(0, 0, 0, 0.05);
+}
+
+.research-card h2 {
+  color: #2563eb;
+  margin-top: 0;
+  border-bottom: none;
+  font-size: 1.3rem;
+}
+
+/* Code blocks */
+
+pre {
+  background-color: #f5f7fa;
+  border: 1px solid #e2e8f0;
+  border-radius: 8px;
+  padding: 16px;
+}
+
+/* Tables */
+
+table {
+  font-size: 0.95rem;
+}
+
+thead {
+  background-color: #f1f5f9;
+}
+
+/* Mobile layout */
+
+@media (max-width: 768px) {
+  h1 {
+    font-size: 1.9rem;
+  }
+
+  .research-card {
+    padding: 16px;
+  }
+
+  .navbar-title {
+    font-size: 16px;
+  }
+}
